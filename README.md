@@ -1,3 +1,4 @@
+
 # University-Event-Management
 > This is a University Event Management System built using Spring Boot MVC framework. The system provides endpoints for managing events and students attending those events.
 ---
